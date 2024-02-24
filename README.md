@@ -26,7 +26,7 @@
 
 ## Feb 19
 * Completed main outline of the code
-* Used four classes-Processor, Core, Main
+* Used three classes-Processor, Core, Main
 * Added basic instructions used in RISC-V to the core class
 * Dealt with errors while joining classes
 
