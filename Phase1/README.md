@@ -1,4 +1,4 @@
-![image](https://github.com/SVRAGHAVVENDRA/RISCV_SIMMULATOR/assets/160268442/e91098f6-1571-4c60-830d-870c7d5eb42b)# CO-PROJECT-PHASE-1
+# CO-PROJECT-PHASE-1
 
 ## Feb 24
 * Debugged the major and minor errors
