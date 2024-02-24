@@ -1,4 +1,4 @@
-# CO-PROJECT-PHASE-1
+![image](https://github.com/SVRAGHAVVENDRA/RISCV_SIMMULATOR/assets/160268442/e91098f6-1571-4c60-830d-870c7d5eb42b)# CO-PROJECT-PHASE-1
 
 ## Feb 24
 * Debugged the major and minor errors
@@ -34,3 +34,6 @@
 * Implemented the code for bubble sort and the selection sort codes in the Ripes software
 * Discussed how to start and proceed and shared the work
 * Started the implementation of code and shared the ideas
+
+## Feb 15
+* Decided to implement project in Java
