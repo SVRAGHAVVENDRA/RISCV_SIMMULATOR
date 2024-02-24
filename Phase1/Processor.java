@@ -14,8 +14,8 @@ public class Processor {
             memory = new int[4096]; 
             cores[0] = new Core();
             cores[1] = new Core();
-            allocateMemory("base1",80);//Initialising where to store starting element of array elements of Q1
-            allocateMemory("base2",320);//Initialising where to store starting element array elements of Q2
+            allocateMemory("base1",80);//Initializing where to store starting element of array elements of Q1
+            allocateMemory("base2",320);//Initializing where to store starting element array elements of Q2
         }
         void run() {
             for (int i = 0; i < 2; i++) {
@@ -41,7 +41,7 @@ public class Processor {
                     it=it+4;
                 }
             }
-            it = memoryMap.get("base2");//updating the iterator for 
+            it = memoryMap.get("base2");//updating the iterator for the next core starting address.
         }
     }
     public void printdata(){
