@@ -35,5 +35,3 @@
 * Discussed how to start and proceed and shared the work
 * Started the implementation of code and shared the ideas
 
-## Feb 15
-* Decided to implement the project in Java
