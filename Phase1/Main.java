@@ -8,8 +8,8 @@ public class Main {
     public static void main(String[] args) {
         
         Parser p=new Parser();
-        List<ArrayList<String>> instructions1 = p.parseAssembly("src\\Test\\Q1.asm");
-        List<ArrayList<String>> instructions2 = p.parseAssembly("src\\Test\\Q2.asm");
+        List<ArrayList<String>> instructions1 = p.parseAssembly("RISCV_SIMMULATOR-Phase1\Phase1\Q1.asm");
+        List<ArrayList<String>> instructions2 = p.parseAssembly("RISCV_SIMMULATOR-Phase1\Phase1\Q2.asm");
         ArrayList<String> textinstructions1 = instructions1.get(0);  
         ArrayList<String> textinstructions2 = instructions2.get(0);
         ArrayList<String> datainstructions1 = instructions1.get(1);  
