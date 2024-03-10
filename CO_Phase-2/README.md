@@ -16,7 +16,7 @@
 #### How to run?
 * download the zip file 
 * check the paths of files in Main.java
-* Debug to get the output
+* run to get the output
 
 #### Output
 * updated registers of two cores
