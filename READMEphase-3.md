@@ -1,4 +1,4 @@
-# CO PROJECT-PHASE-2
+# CO PROJECT-PHASE-3
 
 #### Implemented pipeline 
 * we have used a while loop in pipeline method to implement the pipelining which consists five functions corrsponding five stages of a pipeline(IF,ID,EX,MEM,WB).
